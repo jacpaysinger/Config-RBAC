@@ -1,4 +1,4 @@
-# Configuring Role-Based Access Control (RBAC) for HHD Incidents and Asset Tags
+# Configuring Role-Based Access Control (RBAC) for Incidents and Asset Tags
 
 ## Overview
 This repository documents the implementation of role-based access control for the Holographic Handheld Device (HHD) application in ServiceNow. The lab focused on restricting application visibility, securing Incident records with Access Control Lists (ACLs), and enforcing field-level permissions for sensitive asset data.
